@@ -5,7 +5,7 @@
 // Adds MD5 login as requested
 // =========================
 session_start();
-$stored_md5 = '0e96b40d579f8b6d1b43c23b3ead93cf'; // md5('seokampungan123@@##')
+$stored_md5 = '751d7d7133a66cb8c9d6608030425c64'; // md5('Ganteng123@@##')
 
 // Logout
 if (isset($_GET['logout'])) {
